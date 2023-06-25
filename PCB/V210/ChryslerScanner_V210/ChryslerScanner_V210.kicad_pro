@@ -348,6 +348,14 @@
     [
       "e8591d1b-ea9e-4349-a689-706d63b323cd",
       "Power Supply"
+    ],
+    [
+      "d584bf7c-3d64-4563-bc46-da057782bc67",
+      "PCI"
+    ],
+    [
+      "449d0042-ba50-43bb-a7ec-3334a10ae562",
+      "SCI"
     ]
   ],
   "text_variables": {}
