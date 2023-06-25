@@ -344,6 +344,10 @@
     [
       "237c9ca7-a7e1-43bb-87e3-52a50fb5d9e3",
       "Voltage Switches"
+    ],
+    [
+      "e8591d1b-ea9e-4349-a689-706d63b323cd",
+      "Power Supply"
     ]
   ],
   "text_variables": {}
