@@ -6,11 +6,11 @@
 
   (title_block
     (title "TJ Diag")
-    (date "2023-07-01")
+    (date "2023-07-06")
     (rev "V1.00")
     (company "andy@britishideas.com")
     (comment 1 "V210/ChryslerScanner_V210/schematic/ChryslerScanner_V210_schematic.pdf")
-    (comment 2 "Developed From: https://github.com/laszlodaniel/ChryslerScanner/blob/master/PCB/")
+    (comment 2 "Based on: https://github.com/laszlodaniel/ChryslerScanner/blob/master/PCB/")
     (comment 3 "GPL V3 LICENSE")
   )
 

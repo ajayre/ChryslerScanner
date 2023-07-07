@@ -1,0 +1,10 @@
+OBD-II CONNECTOR NOTES
+======================
+
+Right-angle OBD-II Connector sources (same part):
+ - https://www.obd2-shop.eu/obd2pinblockmalepcbth-p-169.html?language=en
+ - https://www.macchina.cc/catalog/parts/obd2-male-right-angle-pth-connector
+
+Manufactured by:
+ Comtech Electronic Co, Ltd. C-OBD-II-16M(90) - https://www.cct-elec.com/
+ https://www.snapeda.com/parts/C-OBD-II-16M/Comtech%20Electronic%20Co.,%20LTD/view-part/
