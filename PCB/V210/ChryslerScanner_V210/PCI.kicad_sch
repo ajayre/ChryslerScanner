@@ -6,7 +6,7 @@
 
   (title_block
     (title "TJ Diag")
-    (date "2023-07-07")
+    (date "2023-07-18")
     (rev "V1.00")
     (company "andy@britishideas.com")
     (comment 1 "V210/ChryslerScanner_V210/schematic/ChryslerScanner_V210_schematic.pdf")
@@ -1297,10 +1297,13 @@
     (uuid 880979f0-fdbf-4477-87e0-5c1e73f31c20)
     (property "Reference" "L1" (id 0) (at 209.55 93.98 90))
     (property "Value" "22u" (id 1) (at 209.55 96.52 90))
-    (property "Footprint" "" (id 2) (at 209.55 100.33 0)
+    (property "Footprint" "Inductor_SMD:L_0805_2012Metric" (id 2) (at 209.55 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 209.55 100.33 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "manf#" "MLZ2012P220WT000" (id 4) (at 209.55 100.33 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid ff7f8aa0-67bc-439b-a45e-44b58109b649))
