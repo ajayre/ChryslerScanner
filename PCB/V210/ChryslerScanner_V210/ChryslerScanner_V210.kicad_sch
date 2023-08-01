@@ -889,6 +889,9 @@
     (path "/449d0042-ba50-43bb-a7ec-3334a10ae562/659b721a-bac6-4764-8bd3-4c970988f955"
       (reference "#PWR078") (unit 1) (value "GND") (footprint "")
     )
+    (path "/e8591d1b-ea9e-4349-a689-706d63b323cd/6184567f-ffd0-472f-90a1-25621d886fbe"
+      (reference "#PWR?") (unit 1) (value "+12V") (footprint "")
+    )
     (path "/ac169076-8654-48a0-b056-b4e38c009a27/51125db0-789f-4de3-a9c8-525fc7b2f027"
       (reference "C1") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
@@ -1043,16 +1046,16 @@
       (reference "J1") (unit 1) (value "USB_B_Micro") (footprint "Connector_USB:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal")
     )
     (path "/4b6d022c-3e74-4eb6-939e-0485ec1c8fb8/83d48f0a-9388-4bb3-948c-e89d5cfa6df5"
-      (reference "J2") (unit 1) (value "SCI") (footprint "Connector_JST:JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical")
+      (reference "J2") (unit 1) (value "SCI") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
     )
     (path "/4b6d022c-3e74-4eb6-939e-0485ec1c8fb8/876bf173-e0f9-4ba8-a371-35ebe7d5027c"
       (reference "J3") (unit 1) (value "C-OBD-II-16M") (footprint "ChryslerScanner:COMTECH_C-OBD-II-16M")
     )
     (path "/4b6d022c-3e74-4eb6-939e-0485ec1c8fb8/7cddefc1-d55e-4c89-85ac-f2827ee29352"
-      (reference "J4") (unit 1) (value "CCD") (footprint "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical")
+      (reference "J4") (unit 1) (value "CCD") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/4b6d022c-3e74-4eb6-939e-0485ec1c8fb8/bb8684f8-14cb-4343-af71-ea9690af400b"
-      (reference "J5") (unit 1) (value "PCI") (footprint "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical")
+      (reference "J5") (unit 1) (value "PCI") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/4b6d022c-3e74-4eb6-939e-0485ec1c8fb8/62f02884-6db8-4f0c-9324-322bcd13258b"
       (reference "JP1") (unit 1) (value "SGND") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
