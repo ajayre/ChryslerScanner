@@ -404,7 +404,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../CAD/TJ_Diag_V1.0.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
