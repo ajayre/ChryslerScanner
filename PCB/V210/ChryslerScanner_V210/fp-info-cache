@@ -1,4 +1,4 @@
-20521650381269831
+20525039536113479
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6530,6 +6530,20 @@ COMTECH_C-OBD-II-16M
 0
 16
 16
+ChryslerScanner
+JeepSilhouette_30mm
+
+
+0
+0
+0
+ChryslerScanner
+JeepSilhouette_40mm
+
+
+0
+0
+0
 Connector
 Banana_Jack_1Pin
 Single banana socket, footprint - 6mm drill
