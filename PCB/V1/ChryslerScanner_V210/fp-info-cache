@@ -1,4 +1,4 @@
-20525039536113479
+20528434700770320
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52444,12 +52444,26 @@ Crystal
 4
 4
 EmSA
+COIA-CORE-PinHeaders
+Layout for COIA-CORE using 2.54mm pin headers
+
+0
+14
+14
+EmSA
 COIA-CORE-Pogo-0908
 Pogo pin layout for COIA-CORE using 0908 pins
 
 0
 19
 19
+EmSA
+COIA-CORE-SurfaceMount
+Layout for COIA-CORE using 2.54mm pin headers
+
+0
+14
+14
 EmSA
 DB9_RA_MALE_LD09P13A4
 DB9 CAN connector, male
